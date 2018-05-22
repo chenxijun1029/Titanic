@@ -1,0 +1,1 @@
+This project is a solution for a Kaggle competition named "Titanic".
